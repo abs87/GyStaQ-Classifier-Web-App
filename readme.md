@@ -25,7 +25,7 @@
     <li>Now verify the installation by again typing:<br>
         $<b>pip freeze</b><br>
     </li>
-    <li>Now copy the folder GyStaQ inside the virtual_env_name<br>
+    <li> Unzip the folder and copy the folder GyStaQ inside the virtual_env_name<br>
     </li>
     <li>To run the project follow the below steps:<br>
         $<b>cd GyStaQ</b><br>
