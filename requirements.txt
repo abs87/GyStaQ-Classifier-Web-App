@@ -1,5 +1,5 @@
 asgiref==3.2.7
-Django==3.0.6
+Django==3.0.7
 joblib==0.14.1
 numpy==1.18.4
 pandas==1.0.3
