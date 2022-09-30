@@ -1,6 +1,6 @@
 asgiref==3.2.7
 Django==3.0.6
-joblib==0.14.1
+joblib==1.2.0
 numpy==1.18.4
 pandas==1.0.3
 pickle-mixin==1.0.2
